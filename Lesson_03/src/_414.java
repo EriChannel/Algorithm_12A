@@ -9,6 +9,7 @@ public class _414 {
             return Math.max(nums[0], nums[1]);
         }else{
             Arrays.sort(nums);
+
         }
 
     }
